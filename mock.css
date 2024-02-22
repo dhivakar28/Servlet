@@ -1,0 +1,30 @@
+body{
+    height: 100vh;
+    background-image: repeating-linear-gradient(to right,rgb(235, 123, 235),black);
+    display: flex;
+    justify-content: center;
+    align-items: center; 
+
+}
+div{
+    height: 800px;
+    width: 800px;
+    background-image: repeating-linear-gradient(to right,violet ,blue ,black) ; 
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    
+    
+}
+table{
+    color: white;
+    position: absolute;
+}
+h1{
+    font-style: oblique;
+    font-size: 7vh;
+    color: white;
+    position:absolute;
+}
+
+
